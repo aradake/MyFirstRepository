@@ -14,8 +14,8 @@ public class RectangleTest {
 
     @Test
     public void shouldCalculateArea() {
-        Rectangle rectangle=new Rectangle(5,4);
-        assertEquals(20.0,rectangle.area());
-
+        Rectangle rectangle = new Rectangle(5, 4);
+        assertEquals(20.0, rectangle.area());
+    }
 
 }
